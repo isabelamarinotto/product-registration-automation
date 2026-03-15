@@ -1,4 +1,4 @@
-# automacao_tarefas
+# product-registration-automation
 Automação em Python que lê um arquivo CSV e cadastra produtos automaticamente em um sistema.
 Automação de Cadastro de Produtos com Python
 
