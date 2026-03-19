@@ -10,7 +10,7 @@ O objetivo é demonstrar como a programação pode ser utilizada para automatiza
 
 Contexto do Projeto
 Este projeto foi desenvolvido durante uma aula prática de automação com Python.
-Durante o desenvolvimento, mantive no código as anotações e comentários que fiz ao longo da aula, com o objetivo de registrar meu processo de ensino-aprendizagem.
+Durante o desenvolvimento, mantive no código as anotações e comentários que fiz ao longo da aula, com o objetivo de registrar meu processo de aprendizagem.
 Optei por manter essas anotações visíveis neste repositório para que recrutadores e pessoas interessadas possam acompanhar:
 Como organizei o raciocínio do projeto
 Como fui estruturando o passo a passo da automação
